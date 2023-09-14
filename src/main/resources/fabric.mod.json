@@ -2,14 +2,13 @@
 	"schemaVersion": 1,
 	"id": "headshurttoo",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Heads Hurt Too!",
+	"description": "Makes it so when entities wearing skulls take damage, the skull flashes red as well.",
 	"authors": [
-		"Me!"
+		"omoflop"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/omoflop/HeadsHurtToo/"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/headshurttoo/icon.png",
