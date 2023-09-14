@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.omo.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "HeadFeatureRendererMixin",
+    "SkullBlockEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
